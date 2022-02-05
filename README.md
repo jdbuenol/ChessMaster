@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Chess_pictogram.svg)
+![](./docs/chess.png)
 
 # ChessMaster: The coach and invincible AI
 
